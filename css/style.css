@@ -1,1 +1,21 @@
 body { background-color : brown }
+.logo{
+	margin-left:55px;
+	margin-top:40px;
+	width:95px;
+	margin-bottom:15px;
+}
+.navigation{ margin-left:55px; 
+}
+.navigation-a{ padding-top:7.5px;
+	           padding-bottom: 7.6px;
+
+	display:inline-block;
+	text-decoration:none;
+}
+.banner-section{margin-top:15px;
+	           margin-left:218px;
+	           width:100%;
+}
+
+
