@@ -1,4 +1,4 @@
-body { background-color : grey }
+body { background-color : #E6E6FA }
 .logo{
 	margin-left:55px;
 	margin-top:40px;
@@ -17,5 +17,13 @@ body { background-color : grey }
 	           margin-left:218px;
 	           width:100%;
 }
-
+/*contact container*/
+.text-container{ text-align: center;
+padding: 150px: 0;
+}
+.text-container .title {
+	color: #4682B4;
+	font-size: 20px;
+}
+/*contact container*/
 
