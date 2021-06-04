@@ -1,17 +1,23 @@
 body { background-color : #E6E6FA }
 .logo{
-	margin-left:55px;
-	margin-top:40px;
+	
 	width:95px;
-	margin-bottom:15px;
+	display: inline-block;
+	vertical-align: middle;
 }
-.navigation{ margin-left:55px; 
+.navigation{ display: inline-block; 
+	vertical-align: middle;
 }
-.navigation-a{ padding-top:7.5px;
-	           padding-bottom: 7.6px;
+.navigation-a{ 
 
 	display:inline-block;
 	text-decoration:none;
+	padding: 7px; 
+}
+.navigation-li { display: inline-block; 
+}
+.navigation-ul { margin-left:30px
+
 }
 .banner-section{margin-top:15px;
 	           margin-left:218px;
