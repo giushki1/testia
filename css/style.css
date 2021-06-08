@@ -7,14 +7,18 @@ body { background-color : #E6E6FA }
 }
 .navigation{ display: inline-block; 
 	vertical-align: middle;
+	margin-left: 60px;
 }
 .navigation-a{ 
 
 	display:inline-block;
 	text-decoration:none;
-	padding: 7px; 
+	padding: 7px;
+}
+.navigation-a:hover{ color: #8B0000;
 }
 .navigation-li { display: inline-block; 
+	margin-right: 20px;
 }
 .navigation-ul { margin-left:30px
 
