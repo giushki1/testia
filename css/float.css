@@ -3,6 +3,7 @@
 	height: 100%;
 }
 .header{ position:fixed;
+	     padding: 20px,0;
          width: 100%;
          left: 0;
          top: 0;
@@ -26,9 +27,10 @@
 }
 .clear {clear: both;
 }
+body{ padding-top: 57px;
 
-body{
-	padding: 40px;
+}
+
 }
 body, html {height: 100%;
 	width: 100%;
