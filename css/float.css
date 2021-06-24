@@ -5,9 +5,12 @@
 .navigation{
 	float: right;
 }
-.navigaton-li{ display: inline-block;
+.navigation{ display: inline-block; 
 	vertical-align: middle;
+	margin-right: 60px;
 }
+.navigation-li { display: inline-block; 
+	margin-right: 20px;
 
 }
 .clear {clear: both;
