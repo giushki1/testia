@@ -1,11 +1,12 @@
-body { background-color : #fff}
+body { background-color : #E6E6FA}
 .logo{
 	
 	width:95px;
 	display: inline-block;
 	vertical-align: middle;
 }
-/*.navigation{ display: inline-block; */
+
+.navigation{ display: inline-block; 
 	vertical-align: middle;
 	margin-left: 60px;
 }

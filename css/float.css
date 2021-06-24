@@ -1,7 +1,13 @@
 .float-container{
-	background-color: #E6E6FA;
+	background-color: ;
 	height: 100%;
 }
+.header{ position:fixed;
+         width: 100%;
+         background-color: none; 
+
+}
+
 .navigation{
 	float: right;
 }
