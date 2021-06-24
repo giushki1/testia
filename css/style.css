@@ -1,10 +1,10 @@
-body { background-color : #E6E6FA }
+body { background-color : #fff}
 .logo{
 	
 	width:95px;
 	display: inline-block;
 	vertical-align: middle;
-}
+/*}
 .navigation{ display: inline-block; 
 	vertical-align: middle;
 	margin-left: 60px;
@@ -27,7 +27,7 @@ body { background-color : #E6E6FA }
 .banner-section{margin-top:15px;
 	           margin-left:218px;
 	           width:100%;
-}
+}*/
 /*contact container*/
 .text-container{ text-align: center;
 padding: 150px: 0;
@@ -37,5 +37,3 @@ padding: 150px: 0;
 	font-size: 20px;
 }
 /*contact container*/
-
-     

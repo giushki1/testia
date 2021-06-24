@@ -1,1 +1,38 @@
-float.html
+.float-container{
+	background-color: #E6E6FA;
+	height: 100%;
+}
+.navigation{
+	float: right;
+}
+.navigaton-li{ display: inline-block;
+	vertical-align: middle;
+}
+
+}
+.clear {clear: both;
+}
+
+body{
+	padding: 40px;
+}
+body, html {height: 100%;
+	width: 100%;
+	
+
+
+	/*padding: 40px;*/
+}
+.article, img {margin-top:15px;
+	           margin-left:218px;
+}
+
+/*contact container*/
+.text-container { text-align: center;
+padding: 150px: 0;
+}
+.text-container .title {
+	color: #4682B4;
+	font-size: 20px;
+}
+/*contact container*/
