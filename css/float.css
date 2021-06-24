@@ -4,7 +4,9 @@
 }
 .header{ position:fixed;
          width: 100%;
-         background-color: none; 
+         left: 0;
+         top: 0;
+         background-color: #fff;
 
 }
 
@@ -15,6 +17,9 @@
 	vertical-align: middle;
 	margin-right: 60px;
 }
+.navigation-a {text-decoration: none;
+}
+
 .navigation-li { display: inline-block; 
 	margin-right: 20px;
 
