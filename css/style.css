@@ -16,9 +16,9 @@ body { background-color : #E6E6FA}
 	text-decoration:none;
 	padding: 7px;*/
 }
-.navigation-a:hover{ color: #8B0000;
+/*.navigation-a:hover{ color: #8B0000;
 	transition: all 0.3s ease;
-}
+}*/
 .navigation-li { display: inline-block; 
 	margin-right: 20px;
 }

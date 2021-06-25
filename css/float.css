@@ -37,14 +37,21 @@ body{ padding-top: 57px;
 }
 body, html {height: 100%;
 	width: 100%;
-	
+
 
 
 	/*padding: 40px;*/
 }
-.article, img {margin-top:15px;
-	           margin-left:218px;
+ 
 }
+.article, banner-img { margin-top:15px;
+	           margin-left:30px;
+	           width:10%; 
+	       }	
+
+	      
+	     
+
 
 /*contact container*/
 .text-container { text-align: center;
@@ -55,3 +62,18 @@ padding: 150px: 0;
 	font-size: 20px;
 }
 /*contact container*/
+
+/*about us container */
+.aboutus-p { display:block 
+	vertical-align: middle;
+	background-color: #fff;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.aboutus-p2 { display:block 
+	vertical-align: middle;
+	background-color: #fff;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+/*about us container */
