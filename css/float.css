@@ -77,3 +77,41 @@ padding: 150px: 0;
 	margin-right: 20px;
 }
 /*about us container */
+/*/banner logo container*/
+.banner-logo { width:100px;
+position: absolute; 
+left: 30px;
+top: 60px;
+animation: anim .8s infinite;
+}
+.banner-logo:hover {left: 50px;
+ }
+/*/banner logo container*/
+@keyframes anim {
+	20%{
+		transform:rotate(72deg) 
+
+	}
+	40%{
+		transform:rotate(144deg) 
+
+
+	}
+	60%{ 
+		transform:rotate(216deg) 
+
+
+	}
+	80%{ 
+		transform:rotate(288deg) 
+
+		
+
+	}
+	100%{ 
+		transform:rotate(460deg) 
+
+
+	}
+}
+
