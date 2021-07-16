@@ -14,7 +14,7 @@
 .navigation{
 	float: right;
 }
-.navigation{ display: inline-block; 
+.navigation{ display:inline-block; 
 	vertical-align: middle;
 	margin-right: 60px;
 }
@@ -24,7 +24,8 @@
 .navigation-a:hover{ color: #8B0000;
 	transition: all 0.3s ease;
 }
-.navigation-li { display: inline-block; 
+.navigation-li { display: inline-block;
+
 	margin-right: 20px;
 
 }
@@ -56,6 +57,7 @@ body, html {height: 100%;
 /*contact container*/
 .text-container { text-align: center;
 padding: 150px: 0;
+
 }
 .text-container .title {
 	color: #4682B4;
@@ -114,4 +116,46 @@ animation: anim .8s infinite;
 
 	}
 }
+
+
+
+/*video-container*/
+/*.video {background-color: #fff;
+	padding-bottom: 30px,30px;
+	margin-left: 40px;
+	display: flex;*/
+	/*align-items: center;*/
+	/*justify-content: space-between;*/
+
+}
+/*.video-wrapper { display: flex;*/
+
+}
+.video-wrapper { justify-content: space-between; 
+	
+}
+
+
+.video-section {margin-top: 40px;
+display:flex;
+
+}
+
+
+
+
+}
+.video{ background-color: red;
+	width: 570px;
+	height: 320px;
+	justify-content: space-between;
+
+}
+.video-title { background: aqua;
+width: 200px;
+height: 100px; 
+
+}
+/*video-container*/
+
 
