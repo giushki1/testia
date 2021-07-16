@@ -47,8 +47,13 @@ body, html {height: 100%;
 }
 .article, banner-img { margin-top:15px;
 	           margin-left:30px;
-	           width:10%; 
+	           /*width:10%; */
+	           width: 800px;
+	           max-width: 80%;
 	       }	
+.article-wrapper { width: 800px;
+max-width: 80%; 
+}	       
 
 	      
 	     
@@ -128,34 +133,32 @@ animation: anim .8s infinite;
 	/*justify-content: space-between;*/
 
 }
-/*.video-wrapper { display: flex;*/
-
+.video-section{ width: 500px;
+	height: 600px;
+	background-color: aqua;
+	display: flex; 
 }
-.video-wrapper { justify-content: space-between; 
+.video-title { box-shadow: aqua;
+box-sizing: 500px; 
+width:500px;
+}
+
+/*video-container*/
+
+@media (max-width: 375px) { .navigation-a {font-size: 20px;
 	
 }
+.navigation-li {display: block;
 
-
-.video-section {margin-top: 40px;
-display:flex;
-
+}
+.banner-logo {width: 40px;
+	margin-top: 50px;
+}
+.banner-img {width:300px;
+margin-top: 50px;}
 }
 
 
 
-
-}
-.video{ background-color: red;
-	width: 570px;
-	height: 320px;
-	justify-content: space-between;
-
-}
-.video-title { background: aqua;
-width: 200px;
-height: 100px; 
-
-}
-/*video-container*/
 
 
